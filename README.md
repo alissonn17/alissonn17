@@ -1,11 +1,11 @@
-### Olá, eu sou o Alisson Samuel ✍🏾
+### Olá, eu sou o Alisson Nunes ✍🏾
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alisson-samuel-994065247)
 
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonn17&show_icons=true&theme=dracula)
 
-### Tecnologias que utilizo
+### Tecnologias que utilizo:
 
 <div style="display: inline-block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
