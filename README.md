@@ -12,8 +12,10 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="javascrit" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+     <img align="center" alt="sql" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
+     <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonn17)](https://github.com/anuraghazra/github-readme-stats)
 
-20y Python, HTML, CSS e JS. Estudante de programação.
+20y Python, HTML, CSS, JS e SQL. Estudante de programação.
