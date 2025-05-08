@@ -40,5 +40,3 @@
 </div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonn17)](https://github.com/anuraghazra/github-readme-stats)
-
-20y Utilizo Python, HTML, CSS, JS e SQL. So estudante de programação, curso Desenvolvimento WEB FULLSTACK na programadores do amanhã.
