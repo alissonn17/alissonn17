@@ -1,10 +1,18 @@
 ### Olá, eu sou Alisson Nunes ✍🏾
 
+### IDEs:
+
+<div style="display: inline-block">
+    <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img align="center" alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+</div><br>
+
+![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonn17&show_icons=true&theme=dracula) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonn17)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alisson-samuel-994065247)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alisson05samuel@gmail.com)
-
-![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonn17&show_icons=true&theme=dracula)
 
 ### Tecnologias que utilizo:
 
@@ -49,18 +57,3 @@
 <div style="display: inline-block">
     <img align="center" alt="render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
 </div><br>
-
-### Planilhas:
-
-<div style="display: inline-block">
-    <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</div><br>
-
-### Onde faço meus códigos:
-
-<div style="display: inline-block">
-    <img align="center" alt="Visual Studio Code" src="Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img align="center" alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-</div><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonn17)](https://github.com/anuraghazra/github-readme-stats)
