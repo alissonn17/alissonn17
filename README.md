@@ -24,7 +24,7 @@
     <img align="center" alt="sqllite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </div><br>
 
-### Frameworks utilizados:
+### Frameworks | Bibliotecas:
 
 <div style="display: inline-block">
     <img align="center" alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
