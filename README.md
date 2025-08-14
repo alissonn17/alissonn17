@@ -26,6 +26,7 @@
     <img align="center" alt="sql" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br>
 
 ### Database que utilizo:
