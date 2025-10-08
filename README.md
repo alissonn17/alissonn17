@@ -1,10 +1,12 @@
-### Olá, eu sou Alisson Nunes ✍🏾
+### 🤔 Quem Sou? ###
 
 👋🏾 Desenvolvedor Web Fullstack formado pelo curso de Desenvolvimento Web Fullstack da Programadores do Amanhã, utilizo em meus projetos HTML, CSS, Javascript, Typescript, Python, SQL e Visual Basic, além de frameworks e libs como ReactJS, NextJS, NodeJS, Pandas e Scrapy. Já atuei com metodologias ágeis como Scrum e Kanban 🧑🏾‍💻📚.
 
 Tenho grande entusiasmo pela área de tecnologia 🚀, especialmente pela forma como aplicativos e sites funcionam e transformam nossa rotina. A programação sempre me encantou pela interatividade que proporciona e pelo impacto direto na vida das pessoas 🌍✨.
 
 Entre os projetos que desenvolvi, destaco a criação de um site de abrigo para pet ✅, integrando front-end e back-end com autenticação e banco de dados 🗃️, além de colaborar em equipes simuladas para resolver problemas reais com foco em boas práticas de código 💻🤝.
+
+📫 Email para contato: alisson05samuel@gmail.com
 
 ### IDEs:
 
