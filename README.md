@@ -16,9 +16,6 @@ Entre os projetos que desenvolvi, destaco a criação de um site de abrigo para 
     <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </div><br>
 
-![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonn17&show_icons=true&theme=holi) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonn17&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alisson-samuel-994065247)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
